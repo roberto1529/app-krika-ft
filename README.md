@@ -17,5 +17,7 @@ Este es el frontend de la aplicación de gestión de tareas, construida con Reac
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/tu_usuario/proyecto.git
-   cd proyecto/frontend
+   https://github.com/roberto1529/app-krika-ft.git
+   cd proyecto/app-krika-ft
+   npm i
+   npm run dev
